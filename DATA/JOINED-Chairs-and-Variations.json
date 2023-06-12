@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "product": "chair",
+      "type": "dining",
+      "variations": {
+        "wood": "ash",
+        "height": 750,
+        "style": "Regency"
+      }
+    },
+    {
+      "product": "chair",
+      "type": "office",
+      "variations": {
+        "wood": null,
+        "frame": "alloy",
+        "material": "leather",
+        "height": 700,
+        "style": "Modern"
+      }
+    },
+    {
+      "product": "chair",
+      "type": "recliner",
+      "variations": {
+        "material": "polyester",
+        "height": 900,
+        "frame": null
+      }
+    }
+  ]
+}
